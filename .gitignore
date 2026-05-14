@@ -1,0 +1,22 @@
+# Carpetas de compilación
+bin/
+build/
+out/
+target/
+
+# Archivos de NetBeans
+nbproject/private/
+build/
+dist/
+
+# Archivos temporales
+*.class
+*.log
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de VS Code
+.vscode/
